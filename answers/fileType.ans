@@ -1,0 +1,25 @@
+#!/bin/sh
+
+if [ "$#" -ne 1 ]; then
+	echo "Usage: ./doesExist.sh [filename]"
+	exit 
+fi
+
+echo
+echo
+echo "Looking for file "$1"...."
+echo
+echo
+
+if [ -f $1 ]; then 
+	echo "Found file "$1"! file type is:"
+	file $1 
+	echo
+	echo
+else 
+	echo "Hm, we can't find file "$1". Maybe check your spelling?"
+	echo
+	echo
+fi 
+
+
