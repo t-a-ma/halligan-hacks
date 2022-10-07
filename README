@@ -3,9 +3,13 @@ SCRIPTING WORKSHOP:
 This bad boy contains:
 	- some random files
 	- two scripts 
-	- some answers i guess
-	- wahhh 
+	- my answers TO the scripts 
 
+to run my scripts:
+	`mv *.ans ../` moves the files from answers directories to the root directory 
+	./<script>
+	
+	
 Link to slides!
 https://docs.google.com/presentation/d/10yl48vjl3SE-YXizxvHR0AhKVBQpAsYrnlkG6F7uK40/edit?usp=sharing
 
@@ -28,4 +32,6 @@ enjoy!
              /  ___)                    (  ( (
   PN         '.'                         ) ;) ;
                                         (_/(_/
+
+partay
 
